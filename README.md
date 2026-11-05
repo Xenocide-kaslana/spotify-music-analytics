@@ -14,6 +14,10 @@ Dashboard berbasis Streamlit untuk melihat dan memahami data lagu Spotify. Pengg
 - Pilihan tampilan Gelap dan Terang.
 - Informasi sumber data, definisi metrik, proses pengolahan, dan keterbatasan data.
 
+## Link Web Dashboard
+https://spotify-music-analytics-rapi.streamlit.app/
+
+
 ## Persyaratan
 
 Disarankan menggunakan Python 3.10 atau versi yang lebih baru.
